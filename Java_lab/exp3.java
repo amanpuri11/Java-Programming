@@ -1,5 +1,3 @@
-package lab;
-
 public class exp3 {
 
     static class Student {
@@ -35,11 +33,9 @@ public class exp3 {
         s1.display();
 
         s1.updateDetails(5, "Ajay");
-
         s1.display();
 
         s1.deleteStudent();
-
         s1.display();
     }
 }
